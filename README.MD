@@ -13,6 +13,7 @@
 * [Devs on Tape](https://devsontape.podigee.io/17-florian-heubeck)
 * [Monitoring and Hardening the GitOps Delivery Pipeline with Flux](https://medium.com/mediamarktsaturn-tech-blog/monitoring-and-hardening-the-gitops-delivery-pipeline-with-flux-a226bdef0351)
 * [Reliable Application Deployments in a GitOps Setup with Flagger](https://medium.com/mediamarktsaturn-tech-blog/reliable-application-deployments-in-a-gitops-setup-with-flagger-4fb80405108c)
+* [Faktoren für eine erfolgreiche Migration in eine Cloud-Organisation](https://www.youtube.com/watch?v=A4dDbaJ-qDk) (for the [DCNC Roundtable](https://github.com/dcnc-eu/roundtable) together with [Michel Hartmann](https://github.com/MichelHartmann))
 
 ---
 
