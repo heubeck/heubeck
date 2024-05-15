@@ -14,6 +14,7 @@
 * [Monitoring and Hardening the GitOps Delivery Pipeline with Flux](https://dev.to/mms-tech/monitoring-and-hardening-the-gitops-delivery-pipeline-with-flux-1gk)
 * [Reliable Application Deployments in a GitOps Setup with Flagger](https://dev.to/mms-tech/reliable-application-deployments-in-a-gitops-setup-with-flagger-5hjm)
 * [Faktoren für eine erfolgreiche Migration in eine Cloud-Organisation](https://www.youtube.com/watch?v=A4dDbaJ-qDk) (for the [DCNC Roundtable](https://github.com/dcnc-eu/roundtable) together with [Michel Hartmann](https://github.com/MichelHartmann))
+* [SBOM: Transparenz in der Software Lieferkette](https://www.youtube.com/watch?v=5V6RKG2YbYA)
 
 ---
 
